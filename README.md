@@ -1,5 +1,5 @@
 # Conv2D-Complicated-Model-Colab
-JackLiu_Conv2DsModelTrainTest_TensorColab
+Conv2DsModelTrainTest_TensorColab
 
 Design Complicated CNN model and Cloud photos to train and test.
 
